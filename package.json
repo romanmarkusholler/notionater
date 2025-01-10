@@ -17,7 +17,7 @@
   "repository": "https://github.com/infinitaslearning/notionater",
   "dependencies": {
     "@notionhq/client": "^0.4.4",
-    "@tryfabric/martian": "github:cliftonc/martian#better-images",
+    "@tryfabric/martian": "github:tryfabric/martian",
     "await-spawn": "^4.0.2",
     "cli-progress": "^3.9.1",
     "commander": "^8.3.0",
